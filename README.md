@@ -37,6 +37,7 @@ Types to add:
 2.  [All about Regression - Linear, Non-Linear, Logistic, Regularisation] Fuel Efficiency : Tensorflow, Practice Assignments and Kaggle Kernels 
 3.  [SVM] Practice Assignments and Kaggle Kernels
 4.  [Random Forests] Practice Assignments and Kaggle Kernels
+5.  [Recommender Systems] MovieLens Content-based : Collaborative Filtering : SVD : Deep Learning : hands-on Keras
 
 ### Kaggle
 Competitions Contributor on Kaggle from Novice
@@ -45,10 +46,21 @@ Competitions Contributor on Kaggle from Novice
 
 ### Topics-phase2
 
-5.  [Recommender Systems] MovieLens Content-based : Collaborative Filtering : SVD : Deep Learning : hands-on Keras
+THEORY and HANDS-ON DEMO
+
 6.  [CNNs]
+		1. Image Captioning 
+		2. Object detection and segmentation YOLO, PyFaster-RCNN, SSD, MaskR-CNN
 7.  [RNNs - LSTMs - GRU]
+		1. Text Generation
+		2. Machine Translation
 8.  [VAR - GANs] 
+		1. Style Transfer
+		2. Deep Fake
+9.  [Reinforcement Learning]
+		1. Q-Learning and its variants
+
+
 
 ### Free Online Books
 
