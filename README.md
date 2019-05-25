@@ -48,17 +48,17 @@ Competitions Contributor on Kaggle from Novice
 
 THEORY and HANDS-ON DEMO
 
-6.  [CNNs]
-		1. Image Captioning 
-		2. Object detection and segmentation YOLO, PyFaster-RCNN, SSD, MaskR-CNN
-7.  [RNNs - LSTMs - GRU]
-		1. Text Generation
-		2. Machine Translation
-8.  [VAR - GANs] 
-		1. Style Transfer
-		2. Deep Fake
-9.  [Reinforcement Learning]
-		1. Q-Learning and its variants
+6.  [CNNs]  
+		1. Image Captioning  
+		2. Object detection and segmentation YOLO, PyFaster-RCNN, SSD, MaskR-CNN  
+7.  [RNNs - LSTMs - GRU]  
+		1. Text Generation  
+		2. Machine Translation  
+8.  [VAR - GANs]   
+		1. Style Transfer  
+		2. Deep Fake  
+9.  [Reinforcement Learning]  
+		1. Q-Learning and its variants  
 
 
 
